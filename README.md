@@ -35,7 +35,7 @@ I’m a passionate Ai Engineer with a focus on Machine Learning, Python developm
 
 <h3 align="center"> 🏆 Trophies & Achievements </h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmad0702&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ALIJATT01&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
@@ -47,9 +47,9 @@ I’m a passionate Ai Engineer with a focus on Machine Learning, Python developm
 
 ---
 <h3 align="center"> 🌐 Let's Connect! </h3>
-  <a href="https://www.linkedin.com/in/ahmad0702/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ahmad0702" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ahmadashraf0702@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!-- ---
