@@ -27,8 +27,8 @@ I’m a passionate Ai Engineer with a focus on Machine Learning, Python developm
 
 <h3 align="center"> 📊 GitHub Stats </h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad0702&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad0702&layout=compact&hide_border=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALIJATT01&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIJATT01&layout=compact&hide_border=true&theme=algolia" />
 </p>
 
 ---
